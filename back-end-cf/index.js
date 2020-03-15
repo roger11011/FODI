@@ -4,7 +4,7 @@
  * ONEDRIVE_REFRESHTOKEN: refresh_token
  */
 const IS_CN = 0;
-const EXPOSE_PATH = ""
+const EXPOSE_PATH = "/index"
 const ONEDRIVE_REFRESHTOKEN = ""
 
 
